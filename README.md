@@ -1,4 +1,6 @@
-# Hey Everyone! I'm [Jethro Whiz!](https://github.com/Jethrowhiz)
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+Everyone!;I'm+Jethro+Whiz!;Web3+%7C+Full+Stack+Developer" />
+</p>(https://github.com/Jethrowhiz)
 <br><br>
 
 <a href="https://github.com/Jethrowhiz">

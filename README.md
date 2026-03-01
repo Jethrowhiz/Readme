@@ -10,7 +10,7 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> A Web3 Developer ⚡ | Smart Contract Engineer 🔐 | Full Stack Web Architect 🌍 </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A Web3 Developer ⚡ | Smart Contract Developer 🔐 | Frontend Developer 🌍 </samp></h4></p>
 
 <div>
 <img align="right" src="https://your-gif-link-here.gif" width="40%"/>

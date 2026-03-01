@@ -1,7 +1,6 @@
 # <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+Everyone!;I'm+Jethro+Whiz!;Web3+%7C+Full+Stack+Developer" />
-</p>(https://github.com/Jethrowhiz)
-<br><br>
+</p>
 
 <a href="https://github.com/Jethrowhiz">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
